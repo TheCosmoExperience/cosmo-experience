@@ -5,7 +5,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<h1>Welcome to The Cosmo Experience ✨</h1>} />
+        <Route path="/" element={<h1>Welcome to The Cosmo Experience ✨🤩</h1>} />
         <Route path="/signup" element={<Signup />} />
       </Routes>
     </BrowserRouter>
@@ -13,3 +13,4 @@ function App() {
 }
 
 export default App
+
